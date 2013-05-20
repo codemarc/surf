@@ -1,0 +1,10 @@
+{
+  "name": "surf",
+  "version": "0.1.0",
+  "description": "testing aspects of waves",
+  "author": "Marc J. Greenberg <codemarc@gmail.com>",
+  "dependencies": {
+    "neo4j": "~0.2.20"
+  },
+  "readmeFilename": "README.md"
+}
